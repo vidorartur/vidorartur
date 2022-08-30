@@ -1,6 +1,7 @@
 <h1>Ooi, aqui é o Artur Vidor!</h1>
 
 <h3>- 🌱 Estou estudando na Trybe ...</h3>
+<table>
 <div>
   <h3>-JavaScript</h3>
   <img height="100em" src="https://www.pikpng.com/pngl/b/382-3820251_understand-javascripts-this-keyword-in-depth-from-javascript.png" />
@@ -17,6 +18,7 @@
   <h3>-React</h3>
   <img height="100em" src="https://user-images.githubusercontent.com/90942386/187542014-c4f6c276-802e-4bd8-93c8-2d679a21f348.png" />
 </div>
+</table>
 <div align="center">
   <a href="https://github.com/vidorartur">
   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=vidorartur&theme=dark&show_icons=true"/>
