@@ -7,7 +7,7 @@
 <h3>- 🐕 React</h3>
 <h3>- 🌎 Redux</h3>
 <img src="https://user-images.githubusercontent.com/90942386/187542014-c4f6c276-802e-4bd8-93c8-2d679a21f348.png" />
-<img src="https://www.pikpng.com/pngl/m/597-5977109_html5-logo-png.png" />
+<img src="https://www.pikpng.com/pngl/b/382-3820251_understand-javascripts-this-keyword-in-depth-from-javascript.png" />
 <img src="https://user-images.githubusercontent.com/90942386/187542014-c4f6c276-802e-4bd8-93c8-2d679a21f348.png" />
 
 <div align="center">
