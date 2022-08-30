@@ -12,10 +12,10 @@
 
 
 
-<h3>-HTML</h3>
+<h3>-HTML 5</h3>
 <img height="100em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" />
 
-<h3>-CSS</h3>
+<h3>-CSS 3</h3>
 <img height="100em" src="https://logospng.org/download/css-3/logo-css-3-2048.png" />
 
 <h3>-JavaScript</h3>
