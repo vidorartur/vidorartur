@@ -9,10 +9,12 @@
         <img height="100em" src="https://www.pikpng.com/pngl/b/382-3820251_understand-javascripts-this-keyword-in-depth-from-javascript.png" />
       </div>
       </tr>
-<div>
-  <h3>-HTML</h3>
-  <img height="100em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" />
-</div>
+    <td>
+        <div>
+          <h3>-HTML</h3>
+          <img height="100em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" />
+        </div>
+    </td>
 <div>
   <h3>-CSS</h3>
   <img height="100em" src="https://logospng.org/download/css-3/logo-css-3-2048.png" />
