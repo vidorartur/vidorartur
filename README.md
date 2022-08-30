@@ -8,7 +8,7 @@
 <h3>- 🌎 Redux</h3>
 <img src="https://user-images.githubusercontent.com/90942386/187542014-c4f6c276-802e-4bd8-93c8-2d679a21f348.png" />
 <img src="https://www.pikpng.com/pngl/b/382-3820251_understand-javascripts-this-keyword-in-depth-from-javascript.png" />
-<img src="https://user-images.githubusercontent.com/90942386/187542014-c4f6c276-802e-4bd8-93c8-2d679a21f348.png" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" />
 
 <div align="center">
   <a href="https://github.com/vidorartur">
