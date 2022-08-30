@@ -17,13 +17,6 @@
   <h3>- 🐕 React</h3>
   <img height="155em" src="https://user-images.githubusercontent.com/90942386/187542014-c4f6c276-802e-4bd8-93c8-2d679a21f348.png" />
 </div>
-
-
-<h3>- 🌎 Redux</h3>
-
-
-
-
 <div align="center">
   <a href="https://github.com/vidorartur">
   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=vidorartur&theme=dark&show_icons=true"/>
