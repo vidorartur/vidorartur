@@ -6,6 +6,7 @@
 <h3>- 🐈‍⬛ CSS</h3>
 <h3>- 🐕 React</h3>
 <h3>- 🌎 Redux</h3>
+![image](https://user-images.githubusercontent.com/90942386/187542014-c4f6c276-802e-4bd8-93c8-2d679a21f348.png)
 
 <div align="center">
   <a href="https://github.com/vidorartur">
