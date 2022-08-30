@@ -7,7 +7,7 @@
 <h3>- 🐕 React</h3>
 <h3>- 🌎 Redux</h3>
 <img src="https://user-images.githubusercontent.com/90942386/187542014-c4f6c276-802e-4bd8-93c8-2d679a21f348.png" />
-<img src="https://toppng.com/uploads/preview/html-css-js-icons-11563328364gmstz4ubs9.png" />
+<img src="https://www.pngitem.com/pimgs/m/78-787363_transparent-javascript-icon-png-html-css-js-png.png" />
 <img src="https://user-images.githubusercontent.com/90942386/187542014-c4f6c276-802e-4bd8-93c8-2d679a21f348.png" />
 
 <div align="center">
