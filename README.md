@@ -1,6 +1,6 @@
 <h1>Ooi, aqui é o Artur Vidor!</h1>
 
-<h3>- 🌱 Estou estudando na Trybe ...</h3>
+<h3>-Estou estudando na Trybe ...</h3>
 
 <div align="center">
 <a href="https://github.com/vidorartur">
