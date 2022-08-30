@@ -9,8 +9,7 @@
 </div>
   
 
-<h3>-JavaScript</h3>
-<img height="100em" src="https://www.pikpng.com/pngl/b/382-3820251_understand-javascripts-this-keyword-in-depth-from-javascript.png" />
+
 
 
 <h3>-HTML</h3>
@@ -18,6 +17,9 @@
 
 <h3>-CSS</h3>
 <img height="100em" src="https://logospng.org/download/css-3/logo-css-3-2048.png" />
+
+<h3>-JavaScript</h3>
+<img height="100em" src="https://www.pikpng.com/pngl/b/382-3820251_understand-javascripts-this-keyword-in-depth-from-javascript.png" />
 
 <h3>-React</h3>
 <img height="100em" src="https://user-images.githubusercontent.com/90942386/187542014-c4f6c276-802e-4bd8-93c8-2d679a21f348.png" />
