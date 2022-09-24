@@ -45,6 +45,10 @@
         <h3>REDUX</h3>
 <img height="50em" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" />
       </td>
+            <td>
+        <h3>MySQL</h3>
+<img height="50em" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" />
+      </td>
     </tr>
   </tbody>
 </table>
