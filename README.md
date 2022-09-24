@@ -34,7 +34,7 @@
         <img height="50em" src="https://user-images.githubusercontent.com/90942386/187542014-c4f6c276-802e-4bd8-93c8-2d679a21f348.png" />
       </td>
       <td  style="border: solid red 1px; width: 100px; display: flex; flex-direction: column; justify-content: center; align-items: center; padding: 0.5rem;">
-        <h3>Testing L</h3>
+        <h3>Testing Library</h3>
       <img height="50em" src="https://testing-library.com/img/octopus-128x128.png" />
       </td>
       <td  style="border: solid red 1px; width: 100px; display: flex; flex-direction: column; justify-content: center; align-items: center; padding: 0.5rem;">
