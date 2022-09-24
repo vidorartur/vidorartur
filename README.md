@@ -41,7 +41,7 @@
         <h3>JEST</h3>
         <img height="50em" src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png" />
       </td>
-      <td  style="border: solid red 1px; width: 100px; display: flex; flex-direction: column; justify-content: center; align-items: center; padding: 0.5rem;">
+      <td>
         <h3>REDUX</h3>
 <img height="50em" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" />
       </td>
