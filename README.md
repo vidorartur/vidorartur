@@ -22,7 +22,7 @@
       </td>
       <td  style="border: solid red 1px; width: 100px; display: flex; flex-direction: column; justify-content: center; align-items: center; padding: 0.5rem;">
         <h3>SQL</h3>
-<img height="50em" src="https://banner2.cleanpng.com/20190129/qlx/kisspng-logo-mysql-organization-brand-database-mysql-development-5c507af1d46325.50972441154877822587.jpg" />
+<img height="50em" src="[https://banner2.cleanpng.com/20190129/qlx/kisspng-logo-mysql-organization-brand-database-mysql-development-5c507af1d46325.50972441154877822587.jpg](https://cdn-bdkok.nitrocdn.com/zASfOZhMHRaGYpKaSOphFIhUcxxDXZOx/assets/static/optimized/rev-ae4e470/wp-content/uploads/2021/09/com037-600x600.jpg)" />
       </td>
     </tr>
     <tr style="display: flex;">
