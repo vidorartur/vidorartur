@@ -59,4 +59,6 @@
 <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidorartur&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
+<p>Contato: vidorartur@gmail.com</p>
+
 
