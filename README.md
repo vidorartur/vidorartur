@@ -20,10 +20,6 @@
         <h3>JavaScript</h3>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
       </td>
-      <td>
-        <h3>SQL</h3>
-<img height="50em" src="https://cdn-bdkok.nitrocdn.com/zASfOZhMHRaGYpKaSOphFIhUcxxDXZOx/assets/static/optimized/rev-ae4e470/wp-content/uploads/2021/09/com037-600x600.jpg" />
-      </td>
     </tr>
     <tr>
       <td>
@@ -31,7 +27,7 @@
       </td>
       <td>
         <h3>React</h3>
-        <img height="50em" src="https://user-images.githubusercontent.com/90942386/187542014-c4f6c276-802e-4bd8-93c8-2d679a21f348.png" />
+        <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
       </td>
       <td>
         <h3>Testing Library</h3>
@@ -43,7 +39,7 @@
       </td>
       <td>
         <h3>REDUX</h3>
-<img height="50em" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" />
+ <img align="center" alt="redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
       </td>
             <td>
         <h3>MySQL</h3>
@@ -53,21 +49,6 @@
   </tbody>
 </table>
 
-<div>
-  <img align="center" alt="bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
-  
-  
-  <img align="center" alt="bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
-
-<img align="center" alt="typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-<img align="center" alt="docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
-<img align="center" alt="node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-</div>
-
----
 
 <p>Contato: vidorartur@gmail.com</p>
 
