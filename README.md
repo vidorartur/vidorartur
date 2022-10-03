@@ -30,20 +30,12 @@
         <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
       </td>
       <td>
-        <h3>Testing Library</h3>
-      <img height="50em" src="https://testing-library.com/img/octopus-128x128.png" />
-      </td>
-      <td>
-        <h3>JEST</h3>
-        <img height="50em" src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png" />
-      </td>
-      <td>
         <h3>REDUX</h3>
  <img align="center" alt="redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
       </td>
             <td>
         <h3>MySQL</h3>
-  <img align="center" alt="mysql" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+   <img align="center" alt="mysql" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
       </td>
     </tr>
   </tbody>
