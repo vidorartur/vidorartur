@@ -10,22 +10,22 @@
       </td>
       <td>
         <h3>HTML 5</h3>
-        <img height="50em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" />        
+       <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
       </td>
       <td>
         <h3>CSS 3</h3>
-        <img height="50em" src="https://logospng.org/download/css-3/logo-css-3-2048.png" />
+       <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
       </td>
       <td>
         <h3>JavaScript</h3>
-<img height="50em" src="https://www.pikpng.com/pngl/b/382-3820251_understand-javascripts-this-keyword-in-depth-from-javascript.png" />
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
       </td>
       <td>
         <h3>SQL</h3>
 <img height="50em" src="https://cdn-bdkok.nitrocdn.com/zASfOZhMHRaGYpKaSOphFIhUcxxDXZOx/assets/static/optimized/rev-ae4e470/wp-content/uploads/2021/09/com037-600x600.jpg" />
       </td>
     </tr>
-    <tr style="display: flex;">
+    <tr>
       <td>
         <h3>Bibliotecas</h3>
       </td>
@@ -55,10 +55,10 @@
 
 <div>
   <img align="center" alt="bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
+  
   <img align="center" alt="bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
 
