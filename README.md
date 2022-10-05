@@ -43,6 +43,7 @@
 
 
 <p>Contato: vidorartur@gmail.com</p>
+<a href="https://www.linkedin.com/in/artur-dal-berto-vidor/">Linkedin</a>
 
 <div align="center">
 <a href="https://github.com/vidorartur">
