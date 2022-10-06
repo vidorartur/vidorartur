@@ -43,7 +43,7 @@ Neste período adquiri conhecimento técnico em HTML, CSS, JavaScript, React.js,
     </tbody>
   </table>
 
-  <h3>Tests</h3> 
+  <h3>Testes</h3> 
 
   <table>
     <tbody>
