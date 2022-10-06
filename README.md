@@ -43,7 +43,7 @@
 
 
 <p>Contato: vidorartur@gmail.com</p>
-<a href="https://www.linkedin.com/in/artur-dal-berto-vidor/">Linkedin</a>
+<a href="https://www.linkedin.com/in/artur-dal-berto-vidor/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <div align="center">
 <a href="https://github.com/vidorartur">
