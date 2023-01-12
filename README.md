@@ -2,9 +2,9 @@
 
 <p>Tenho 25 anos e moro em Palhoça - SC.
 <br/>
-Sou formado em Gestão de Turismo pela Faculdade Municipal de Palhoça e estudei até a quinta fase de Arquitetura e Urbanismo na Unigranrio. Porém a vida me trouxe para o caminho da tecnologia e atualmente estudo Desenvolvimento Web na Trybe, desde Março de 2022.
+Sou formado em Gestão de Turismo, pela Faculdade Municipal de Palhoça. Estudei até a quinta fase de Arquitetura e Urbanismo, na Unigranrio. Porém, a vida me trouxe para o caminho da tecnologia e, atualmente, estudo Desenvolvimento Web, na Trybe. Iniciei esta etapa em março de 2022.
 <br/>
-Neste período adquiri conhecimento técnico em HTML, CSS, JavaScript, React.js, Redux, Node.js, MySQL, Jest, Testing Library e também Git e GitHub. Além de trabalhar em grupo com Trello seguindo a teoria da metodologia ágil.</p>
+Neste período, adquiri conhecimento técnico em HTML, CSS, JavaScript, React.js, Redux, Node.js, MySQL, Jest, Testing Library e também Git e GitHub. Além de trabalhar em grupo com Trello, seguindo a teoria da metodologia ágil.</p>
 
   <h3>Linguagens</h3>
 <table>
