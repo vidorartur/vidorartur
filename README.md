@@ -1,4 +1,4 @@
-<h1>Muito prazer me chamo Artur Vidor!</h1>
+<h1>Muito prazer, me chamo Artur Vidor!</h1>
 
 <p>Tenho 25 anos e moro em Palhoça - SC.
 <br/>
@@ -35,14 +35,8 @@ Neste período, adquiri conhecimento técnico em HTML, CSS, JavaScript, React.js
     <tbody>
       <tr>
         <td>
-          <img align="center" alt="React" height="30" width="100" src="https://camo.githubusercontent.com/268ac512e333b69600eb9773a8f80b7a251f4d6149642a50a551d4798183d621/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642">
+          <img align="center" alt="React" height="50" width="150" src="https://camo.githubusercontent.com/268ac512e333b69600eb9773a8f80b7a251f4d6149642a50a551d4798183d621/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642">
         </td>
-        <td>
-          <img align="center" alt="redux" height="30" width="100" src="https://camo.githubusercontent.com/6908bc5919e46cd787b8e5117f092f5ed37da82e8bd602e6339060ea0fff722c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656475782d3539334438383f7374796c653d666f722d7468652d6261646765266c6f676f3d7265647578266c6f676f436f6c6f723d7768697465">
-        </td>
-        <td>
-          <img align="center" alt="mysql" height="30" width="100" src="https://camo.githubusercontent.com/a4a4a017a5d519d7c4ce2a3cd3d2194fb7af4b1ca424850784565007c2acc7d8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3030354338343f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465">
-      </tr>
     </tbody>
   </table>
 
