@@ -4,7 +4,7 @@
 <br/>
 Sou formado em Gestão de Turismo, pela Faculdade Municipal de Palhoça. Estudei até a quinta fase de Arquitetura e Urbanismo, na Unigranrio. Porém, a vida me trouxe para o caminho da tecnologia e, atualmente, estudo Desenvolvimento Web, na Trybe. Iniciei esta etapa em março de 2022.
 <br/>
-Neste período, adquiri conhecimento técnico em HTML, CSS, JavaScript, React.js, Redux, Node.js, MySQL, Jest, Testing Library e também Git e GitHub. Além de trabalhar em grupo com Trello, seguindo a teoria da metodologia ágil.</p>
+Neste período, adquiri conhecimento técnico em HTML, CSS, JavaScript, React.js, Redux, Node.js, TypeScript, MySQL, Jest, Testing Library e também Git e GitHub. Além de trabalhar em grupo com Trello, seguindo a teoria da metodologia ágil.</p>
 
   <h3>Linguagens</h3>
 <table>
@@ -22,7 +22,9 @@ Neste período, adquiri conhecimento técnico em HTML, CSS, JavaScript, React.js
       <td>
   <img align="center" alt="mysql" height="30" width="100" src="https://camo.githubusercontent.com/dfc69d704694f22168bea3d84584663777fa5301dcad5bbcb5459b336da8d554/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732d3433383533443f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465">
       </td>
+      <td> 
       <img align="center" alt="mysql" height="30" width="100" src="https://upload.wikimedia.org/wikipedia/commons/2/29/TypeScript_Logo_%28Blue%29.svg">
+        </td>
     </tr>
   </tbody>
 </table>
